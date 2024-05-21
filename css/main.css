@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Lexend Deca";
+  src: url("../assets/LexendDeca-VariableFont_wght.ttf");
+}
+
+.book-bg {
+  background-image: url("../assets/book-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.shadow {
+  box-shadow: -10px 10px 10px #000000;
+}
